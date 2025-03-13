@@ -15,7 +15,7 @@ let roomNameField = newRoomForm.querySelector("#name");
 
 const debug = false
 
-const BACKEND_URL = debug ? "http://localhost:8070/" : "http://149.130.172.57:8070/";
+const BACKEND_URL = debug ? "http://localhost:8070/" : "http://149.130.172.57:8070";
 
 var STATE = {
   room: "lobby",
