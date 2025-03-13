@@ -1,0 +1,13 @@
+/home/edimez14/Documentos/programacion/rust/chat-app/target/debug/deps/libtoml-137877af572eb0d8.rmeta: /home/edimez14/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.12/src/lib.rs /home/edimez14/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.12/src/map.rs /home/edimez14/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.12/src/value.rs /home/edimez14/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.12/src/de.rs /home/edimez14/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.12/src/ser.rs /home/edimez14/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.12/src/macros.rs /home/edimez14/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.12/src/edit.rs /home/edimez14/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.12/src/fmt.rs /home/edimez14/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.12/src/table.rs
+
+/home/edimez14/Documentos/programacion/rust/chat-app/target/debug/deps/toml-137877af572eb0d8.d: /home/edimez14/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.12/src/lib.rs /home/edimez14/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.12/src/map.rs /home/edimez14/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.12/src/value.rs /home/edimez14/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.12/src/de.rs /home/edimez14/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.12/src/ser.rs /home/edimez14/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.12/src/macros.rs /home/edimez14/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.12/src/edit.rs /home/edimez14/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.12/src/fmt.rs /home/edimez14/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.12/src/table.rs
+
+/home/edimez14/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.12/src/lib.rs:
+/home/edimez14/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.12/src/map.rs:
+/home/edimez14/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.12/src/value.rs:
+/home/edimez14/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.12/src/de.rs:
+/home/edimez14/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.12/src/ser.rs:
+/home/edimez14/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.12/src/macros.rs:
+/home/edimez14/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.12/src/edit.rs:
+/home/edimez14/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.12/src/fmt.rs:
+/home/edimez14/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.12/src/table.rs:

@@ -1,0 +1,11 @@
+/home/edimez14/Documentos/practicas_programacion/rust/chat-app/target/debug/deps/liblitemap-185a27eb2545bde8.rmeta: /home/edimez14/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.7.5/src/lib.rs /home/edimez14/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.7.5/src/map.rs /home/edimez14/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.7.5/src/store/mod.rs /home/edimez14/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.7.5/src/store/slice_impl.rs /home/edimez14/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.7.5/src/store/vec_impl.rs
+
+/home/edimez14/Documentos/practicas_programacion/rust/chat-app/target/debug/deps/liblitemap-185a27eb2545bde8.rlib: /home/edimez14/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.7.5/src/lib.rs /home/edimez14/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.7.5/src/map.rs /home/edimez14/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.7.5/src/store/mod.rs /home/edimez14/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.7.5/src/store/slice_impl.rs /home/edimez14/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.7.5/src/store/vec_impl.rs
+
+/home/edimez14/Documentos/practicas_programacion/rust/chat-app/target/debug/deps/litemap-185a27eb2545bde8.d: /home/edimez14/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.7.5/src/lib.rs /home/edimez14/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.7.5/src/map.rs /home/edimez14/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.7.5/src/store/mod.rs /home/edimez14/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.7.5/src/store/slice_impl.rs /home/edimez14/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.7.5/src/store/vec_impl.rs
+
+/home/edimez14/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.7.5/src/lib.rs:
+/home/edimez14/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.7.5/src/map.rs:
+/home/edimez14/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.7.5/src/store/mod.rs:
+/home/edimez14/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.7.5/src/store/slice_impl.rs:
+/home/edimez14/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.7.5/src/store/vec_impl.rs:
