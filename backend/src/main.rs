@@ -60,10 +60,13 @@ fn rocket() -> _ {
         let frontend_url = std::env::var("FRONTEND_URL")
             .expect("FRONTEND_URL must be set in .env");
         
-        CorsOptions {
-            allowed_origins: AllowedOrigins::some_exact(&[frontend_url]),
-            ..Default::default()
-        }
+            CorsOptions {
+                allowed_origins: AllowedOrigins::some_exact(&[frontend_url]),
+                allowed_methods: vec![Method::Get, Method::Post].into_iter().map(From::from).collect(),
+                allowed_headers: AllowedHeaders::all(),
+                allow_credentials: true,
+                ..Default::default()
+            }   
         .to_cors()
         .unwrap()
     };
