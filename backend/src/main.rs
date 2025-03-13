@@ -69,6 +69,7 @@ fn rocket() -> _ {
     };
 
     let config = rocket::Config {
+        address: std::net::Ipv4Addr::new(0, 0, 0, 0).into(),
         port: 8070,
         ..rocket::Config::default()
     };
