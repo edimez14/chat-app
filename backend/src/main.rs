@@ -3,6 +3,7 @@
 use rocket::{State, Shutdown};
 use rocket::http::Method;
 use rocket_cors::{AllowedOrigins, CorsOptions};
+use rocket_cors::AllowedHeaders;
 use rocket::form::Form;
 use rocket::response::stream::{EventStream, Event};
 use rocket::serde::{Serialize, Deserialize};
@@ -66,7 +67,7 @@ fn rocket() -> _ {
                 allowed_headers: AllowedHeaders::all(),
                 allow_credentials: true,
                 ..Default::default()
-            }   
+            }
         .to_cors()
         .unwrap()
     };
